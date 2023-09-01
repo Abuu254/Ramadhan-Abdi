@@ -61,6 +61,14 @@ export const projects = [
       techStack: ["Reactjs", "Flask", "SQLAlchemy"],
     },
     {
+      projectName: "Toxic Comment Classification",
+      image: "",
+      summary:
+        "Developed a TensorFlow-based model to classify toxic comments, addressing a key concern in the online community.",
+      preview: "https://github.com/Abuu254/Toxic-Comment-Classification",
+      techStack: ["Python", "tensorflow", "pandas", "sklearn"],
+    },
+  {
       projectName: "Commerce Website",
       image: "images/market.png",
       summary:
