@@ -72,9 +72,9 @@ export const projects = [
 
   export const experience = [
     {
-      title: "Yale University | African American Studies",
-      duration: "June 2023 - Present",
-      subtitle: "Research Assistant",
+      title: "Yale University |Data Analytics Lab for African American Studies",
+      duration: "June 2023 - Aug 2023",
+      subtitle: "Data Research Assistant",
       details: [
         "Leveraging advanced web scraping techniques to facilitate comprehensive literature searches, aiding vital research methodologies aimed at combating racism in healthcare.",
         "Applying innovative approaches and leveraging technical skills to create datasets that accurately account for race among medicine's gatekeepers, contributing to the advancement of equitable healthcare practices."
@@ -85,7 +85,7 @@ export const projects = [
     {
       title: "Yale Library | Digital Reformatting & Microfilm Services",
       duration: "September 2021 - May 2023",
-      subtitle: "Student Imaging Specialist",
+      subtitle: "Student Imaging Specialist & Automation Engineer",
       details: [
         "Led the daily digitization of over 200 pages of the library’s rare resources, employing high-quality scanning and specialized software for processing.",
         "Developed and deployed Python automation scripts to enhance the digitization process, significantly increasing efficiency by identifying and removing duplicate materials and empty folders in the university’s library digital collection."
@@ -96,7 +96,7 @@ export const projects = [
     {
       title: "Cross World Africa",
       duration: "June 2022 - August 2022",
-      subtitle: "Summer Intern",
+      subtitle: "Data Analysis Intern",
       details: [
         "Undertook rigorous field visits to over 15 CWA beneficiaries in Kenya's Rift Valley region, collecting valuable information and drafting insightful reports on program impact, thus aiding in refining the initiative further.",
         "Effectively mentored 37 scholarship students and actively participated in charity events, embodying the organization's mission to combat poverty and foster academic and personal success among the youth."
