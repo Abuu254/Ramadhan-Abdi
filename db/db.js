@@ -56,7 +56,7 @@ export const projects = [
       projectName: "Talks At Yale",
       image: "images/talksatyale.png",
       summary:
-        "Led a team of five in developing “Talks at Yale,” a secure full-stack web application using Next.js, Flask, and SQLAlchemy, enhancing the user experience through optimized API routes and database queries. Spearheaded the design and implementation of key features, ensuring the application’s performance, security, and usability, contributing to a seamless user interface and robust backend infrastructure.",
+        "Led a team of five in developing 'Talks at Yale,' a secure full-stack web application using Next.js, Flask, and SQLAlchemy, enhancing the user experience through optimized API routes and database queries. Spearheaded the design and implementation of key features, ensuring the application’s performance, security, and usability, contributing to a seamless user interface and robust backend infrastructure.",
       preview: "https://github.com/Abuu254/talksatyale",
       techStack: ["Reactjs", "Nextjs", "Flask", "SQLAlchemy"],
     },
@@ -92,7 +92,8 @@ export const projects = [
       duration: "June 2023 - Aug 2023",
       subtitle: "Data Research Assistant (python)",
       details: [
-        "Developed web scraping scripts to facilitate comprehensive literature searches, collecting data from over 100 schools to enhance research on combating racism in healthcare. Engineered datasets that accurately account for race among medicine’s gatekeepers, extracting and processing over 4000 data entries from requested websites with 90%+ accuracy, advancing equitable healthcare practices."
+        "Developed web scraping scripts to facilitate comprehensive literature searches, collecting data from over 100 schools to enhance research on combating racism in healthcare.", 
+        "Engineered datasets that accurately account for race among medicine’s gatekeepers, extracting and processing over 4000 data entries from requested websites with 90%+ accuracy, advancing equitable healthcare practices."
       ],
       tags: ["Python", "Web Scraping", "Data Analysis"],
       icon: "heartbeat",
@@ -102,7 +103,8 @@ export const projects = [
       duration: "September 2021 - May 2023",
       subtitle: "Student Imaging Specialist & Software Automation Assistant",
       details: [
-        "Developed and deployed Python scripts to automate digitization, improving efficiency in locating requested folders from network storage. Contributed to the digitization of over 1000 rare library resources, making them accessible in the library catalog and aiding research efforts."
+        "Developed and deployed Python scripts to automate digitization, improving efficiency in locating requested folders from network storage., 
+        "Contributed to the digitization of over 1000 rare library resources, making them accessible in the library catalog and aiding research efforts."
       ],
       tags: ["Python", "Automation", "Digitization"],
       icon: "archive",
@@ -112,7 +114,7 @@ export const projects = [
       duration: "June 2022 - August 2022",
       subtitle: "Data Analysis Intern",
       details: [
-        "Conducted field visits to 18 CWA beneficiaries in Kenya, collected data, and drafted reports on program impact aiding in initiative refinement. Mentored 37 scholarship students and participated in charity events, supporting the organization’s mission to combat poverty and foster academic and personal success among youth."
+        "Conducted field visits to 18 CWA beneficiaries in Kenya, collected data, and drafted reports on program impact aiding in initiative refinement.",           "Mentored 37 scholarship students and participated in charity events, supporting the organization’s mission to combat poverty and foster academic and personal success among youth."
       ],
       tags: ["Field Work", "Mentorship", "Charity"],
       icon: "globe-africa",
