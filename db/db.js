@@ -56,7 +56,7 @@ export const projects = [
       projectName: "Talks At Yale",
       image: "images/talksatyale.png",
       summary:
-        "Led a team of five in developing “Talks at Yale,” a secure full-stack web application using Next.js, Flask, and SQLAlchemy, enhancing the user experience through optimized API routes and database queries." 
+        "Led a team of five in developing “Talks at Yale,” a secure full-stack web application using Next.js, Flask, and SQLAlchemy, enhancing the user experience through optimized API routes and database queries.", 
         "Spearheaded the design and implementation of key features, ensuring the application’s performance, security, and usability, contributing to a seamless user interface and robust backend infrastructure.",
       preview: "https://github.com/Abuu254/talksatyale",
       techStack: ["Reactjs", "Nextjs", "Flask", "SQLAlchemy"],
@@ -81,7 +81,8 @@ export const projects = [
       projectName: "Micro Operating System",
       image: "",
       summary:
-        "Implemented a micro operating system in C, featuring user vs. kernel privilege separation, virtual memory management, and process lifecycle management. Designed and developed core OS functionalities, including process creation, virtual memory handling, and efficient resource cleanup enhancing system performance and stability.",
+        "Implemented a micro operating system in C, featuring user vs. kernel privilege separation, virtual memory management, and process lifecycle management.", 
+        "Designed and developed core OS functionalities, including process creation, virtual memory handling, and efficient resource cleanup enhancing system performance and stability.",
       preview:"https://github.com/Abuu254",
       techStack: ["C"],
     },
