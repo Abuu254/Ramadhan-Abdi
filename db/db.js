@@ -101,7 +101,7 @@ export const projects = [
       duration: "September 2021 - May 2023",
       subtitle: "Student Imaging Specialist & Software Automation Assistant",
       details: [
-        "Developed and deployed Python scripts to automate digitization, improving efficiency in locating requested folders from network storage.", 
+        "Developed and deployed Python scripts to automate digitization, improving efficiency in locating requested folders from network storage.",
         "Contributed to the digitization of over 1000 rare library resources, making them accessible in the library catalog and aiding research efforts."
       ],
       tags: ["Python", "Automation", "Digitization"],
