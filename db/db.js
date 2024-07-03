@@ -55,16 +55,14 @@ export const projects = [
     {
       projectName: "Talks At Yale",
       image: "images/talksatyale.png",
-      summary:
-        "Led a team of five in developing 'Talks at Yale,' a secure full-stack web application using Next.js, Flask, and SQLAlchemy, enhancing the user experience through optimized API routes and database queries. Spearheaded the design and implementation of key features, ensuring the application’s performance, security, and usability, contributing to a seamless user interface and robust backend infrastructure.",
+      summary: "Led a team of five in developing TalksatYale, a secure full-stack web application using Next.js, Flask, and SQLAlchemy, enhancing the user experience through optimized API routes and database queries. Spearheaded the design and implementation of key features, ensuring the application’s performance, security, and usability, contributing to a seamless user interface and robust backend infrastructure.",
       preview: "https://github.com/Abuu254/talksatyale",
       techStack: ["Reactjs", "Nextjs", "Flask", "SQLAlchemy"],
     },
     {
       projectName: "Toxic Comment Classification",
       image: "",
-      summary:
-        "Developed a TensorFlow-based model to classify toxic comments, addressing a key concern in the online community.",
+      summary: "Developed a TensorFlow-based model to classify toxic comments, addressing a key concern in the online community.",
       preview: "https://github.com/Abuu254/Toxic-Comment-Classification",
       techStack: ["Python", "tensorflow", "pandas", "sklearn"],
     },
