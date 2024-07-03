@@ -101,7 +101,7 @@ export const projects = [
       duration: "September 2021 - May 2023",
       subtitle: "Student Imaging Specialist & Software Automation Assistant",
       details: [
-        "Developed and deployed Python scripts to automate digitization, improving efficiency in locating requested folders from network storage., 
+        "Developed and deployed Python scripts to automate digitization, improving efficiency in locating requested folders from network storage.", 
         "Contributed to the digitization of over 1000 rare library resources, making them accessible in the library catalog and aiding research efforts."
       ],
       tags: ["Python", "Automation", "Digitization"],
@@ -112,7 +112,8 @@ export const projects = [
       duration: "June 2022 - August 2022",
       subtitle: "Data Analysis Intern",
       details: [
-        "Conducted field visits to 18 CWA beneficiaries in Kenya, collected data, and drafted reports on program impact aiding in initiative refinement.",           "Mentored 37 scholarship students and participated in charity events, supporting the organization’s mission to combat poverty and foster academic and personal success among youth."
+        "Conducted field visits to 18 CWA beneficiaries in Kenya, collected data, and drafted reports on program impact aiding in initiative refinement.",
+        "Mentored 37 scholarship students and participated in charity events, supporting the organization’s mission to combat poverty and foster academic and personal success among youth."
       ],
       tags: ["Field Work", "Mentorship", "Charity"],
       icon: "globe-africa",
