@@ -11,37 +11,37 @@ export const skills = [
     title: "Programming Languages",
     skillName: "Python, C, C++, JavaScript",
     color: "1",
-    percentage: "80",
+    percentage: "100",
   },
   {
     title: "Web Technologies",
-    skillName: "HTML 5, CSS 3, Flask",
+    skillName: "HTML 5, CSS 3, Flask, React.js, Next.js",
     color: "6",
-    percentage: "70",
+    percentage: "100",
   },
   {
     title: "Database Management",
-    skillName: "SQLite",
+    skillName: "SQLite, SQLAlchemy, MySQL",
     color: "4",
-    percentage: "70",
+    percentage: "100",
   },
   {
     title: "Version Control",
     skillName: "Git",
     color: "7",
-    percentage: "70",
+    percentage: "100",
   },
   {
     title: "Web Development",
     skillName: "Full-Stack Web Programming",
     color: "3",
-    percentage: "75",
+    percentage: "100",
   },
   {
     title: "Data Analysis",
-    skillName: "Data Structures, Algorithms, Data Exploration",
+    skillName: "Data Structures, Algorithms, Data Exploration, Machine Learning",
     color: "5",
-    percentage: "70",
+    percentage: "100",
   },
   {
     title: "Editor",
@@ -53,12 +53,15 @@ export const skills = [
 
 export const projects = [
     {
-      projectName: "TalksAtYale",
+      projectName: "Talks At Yale",
       image: "images/talksatyale.png",
       summary:
-        "Spearheaded a team of four students in the full-stack development of a secure web application, employing cutting-edge technologies such as React.js, Flask, and SQLAlchemy. Masterfully designed and implemented a variety of API routes and optimized database queries.",
+        "Led a team of five in developing “Talks at Yale,” a secure full-stack web application using Next.js, Flask, and
+SQLAlchemy, enhancing the user experience through optimized API routes and database queries. Spearheaded the design and implementation of key features, ensuring the application’s performance, security,
+and usability, contributing to a seamless user interface and robust backend infrastructure.
+",
       preview: "https://github.com/Abuu254/talksatyale",
-      techStack: ["Reactjs", "Flask", "SQLAlchemy"],
+      techStack: ["Reactjs","Nextjs", "Flask", "SQLAlchemy"],
     },
     {
       projectName: "Toxic Comment Classification",
@@ -76,16 +79,24 @@ export const projects = [
       preview: "https://github.com/Abuu254/talksatyale",
       techStack: ["Flask", "Python", "SQLAlchemy"],
     },
+    {
+      projectName: "Micro Operating System",
+      image: "",
+      summary:
+        "Implemented a micro operating system in C, featuring user vs. kernel privilege separation, virtual memory management, and process lifecycle management. Designed and developed core OS functionalities, including process creation, virtual memory handling, and efficient resource cleanup enhancing system performance and stability.",
+      preview: "",
+      techStack: ["C"],
+    },
   ];
 
   export const experience = [
     {
-      title: "Yale University |Data Analytics Lab for African American Studies",
+      title: "Yale University|African American Studies Department Lab",
       duration: "June 2023 - Aug 2023",
-      subtitle: "Data Research Assistant",
+      subtitle: "Data Research Assistant (python)",
       details: [
-        "Leveraging advanced web scraping techniques to facilitate comprehensive literature searches, aiding vital research methodologies aimed at combating racism in healthcare.",
-        "Applying innovative approaches and leveraging technical skills to create datasets that accurately account for race among medicine's gatekeepers, contributing to the advancement of equitable healthcare practices."
+        "Developed web scraping scripts to facilitate comprehensive literature searches, collecting data from over 100 schools to enhance research on combating racism in healthcare.",
+        "Engineered datasets that accurately account for race among medicine’s gatekeepers, extracting and processing over 4000 data entries from requested websites with 90%+ accuracy, advancing equitable healthcare practices."
       ],
       tags: ["Python", "Web Scraping", "Data Analysis"],
       icon: "heartbeat",
@@ -93,10 +104,10 @@ export const projects = [
     {
       title: "Yale Library | Digital Reformatting & Microfilm Services",
       duration: "September 2021 - May 2023",
-      subtitle: "Student Imaging Specialist & Automation Engineer",
+      subtitle: "Student Imaging Specialist & Software Automation Assistant",
       details: [
-        "Led the daily digitization of over 200 pages of the library’s rare resources, employing high-quality scanning and specialized software for processing.",
-        "Developed and deployed Python automation scripts to enhance the digitization process, significantly increasing efficiency by identifying and removing duplicate materials and empty folders in the university’s library digital collection."
+        "Developed and deployed Python scripts to automate digitization, improving efficiency in locating requested folders from network storage.",
+        "Contributed to the digitization of over 1000 rare library resources, making them accessible in the library catalog and aiding research efforts."
       ],
       tags: ["Python", "Automation", "Digitization"],
       icon: "archive",
@@ -106,8 +117,8 @@ export const projects = [
       duration: "June 2022 - August 2022",
       subtitle: "Data Analysis Intern",
       details: [
-        "Undertook rigorous field visits to over 15 CWA beneficiaries in Kenya's Rift Valley region, collecting valuable information and drafting insightful reports on program impact, thus aiding in refining the initiative further.",
-        "Effectively mentored 37 scholarship students and actively participated in charity events, embodying the organization's mission to combat poverty and foster academic and personal success among the youth."
+        "Conducted field visits to 18 CWA beneficiaries in Kenya, collected data, and drafted reports on program impact aiding in initiative refinement.",
+        "Mentored 37 scholarship students and participated in charity events, supporting the organization’s mission to combat poverty and foster academic and personal success among youth."
       ],
       tags: ["Field Work", "Mentorship", "Charity"],
       icon: "globe-africa",
@@ -122,7 +133,7 @@ export const projects = [
       details: [
         "I am continually excited by the opportunities for intellectual growth at Yale, regularly exploring beyond the core curriculum to engage with diverse classes. This quest for knowledge is not confined to the classroom—I am constantly seeking to apply what I've learned in practical scenarios through the initiation and completion of various mini projects."
       ],
-      tags: ["Data Structures and Programming Techniques", "Algorithms", "Full-Stack Web Programming", "Data Exploration and Analysis"],
+      tags: [ "Object-oriented programming (python)", "Data Structures & Programming Techniques (C & C++)", "Full-Stack Web Development (Flask, Next.js, HTML & CSS, SQL)", "Systems Programming & Computer Organization (C & Rust)", "Data Exploration & Analysis", "Introduction to Database Systems", "Introduction to Machine Learning", "Software Engineering", "Human-Computer Interaction"],
       icon: "university",
     },
   ];
