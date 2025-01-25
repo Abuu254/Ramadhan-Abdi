@@ -2,7 +2,7 @@ export const bio = [
   "Hello there &#128075;",
   "I'm Ramadhan Abdi, a B.S. in Computer Science candidate at Yale University. I’m passionate about leveraging software engineering and technology to create solutions that positively impact our world.",
   "I’m affiliated with ColorStack and CodePath, and beyond coding, I love playing soccer, mentoring students, and participating in charity events.",
-  "I’m continuously exploring new technologies—like Rust, AWS, Docker, and Next.js—to broaden my skill set and deepen my problem-solving capabilities.",
+  "I’m continuously exploring new technologies—like Rust—to broaden my skill set and deepen my problem-solving capabilities.",
   "Thanks for taking the time to learn a little about me!",
 ];
 
